@@ -5,7 +5,7 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * @author BUCHU
+ * @author huran
  * @Title: NettyServer
  * @ProjectName java-spring
  * @Description: TODO
